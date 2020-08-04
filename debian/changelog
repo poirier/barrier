@@ -1,3 +1,8 @@
+barrier (2.3.3) disco; urgency=medium
+
+  [ poirier ]
+  * see if this changes the version
+
 barrier (2.3.2) disco; urgency=medium
 
   [ walker0643 ]
