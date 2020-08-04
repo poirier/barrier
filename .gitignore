@@ -25,6 +25,10 @@ Makefile
 **/CMakeFiles/
 CMakeCache.txt
 /rpm
+/debian/.debhelper
+/debian/barrier.debhelper.log
+/debian/barrier.substvars
+/debian/files
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # VS Code Directory

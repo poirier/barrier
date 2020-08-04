@@ -1,0 +1,2 @@
+cmake
+libxtst-dev qtdeclarative5-dev libavahi-compat-libdnssd-dev libcurl4-openssl-dev
