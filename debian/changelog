@@ -1,7 +1,9 @@
-barrier (2.3.3) disco; urgency=medium
+barrier (2.3.3) unstable; urgency=medium
 
   [ poirier ]
-  * see if this changes the version
+  * see if this changes the version. Yes, it does.
+
+ -- Dan Poirier <dan@poirier.us>  Tue, 04 Aug 2020 20:44:30 -0400
 
 barrier (2.3.2) disco; urgency=medium
 
